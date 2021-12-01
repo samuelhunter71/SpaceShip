@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Usuario\Desktop\CursoAsteroides\.metadata\.plugins\org.eclipse.jdt.core
-2967872257.index
-1865797976.index
