@@ -11,11 +11,11 @@ public class C {
 	public static final double ACC=0.2;
 	public static final double DELTAANGLE=0.1;//0.1
 	public static final double PLAYER_ROT_SPEED=0.09;//Minimum 0.10; Maximum 0.15 with upgrades
-	public static final int START_LIVES = 5;//5 ONLY five!!!!
+	public static final int START_LIVES = 5;//5 ONLY THREEEEE!!!!
 	public static final long FLICKER_TIME = 200;
 	public static final long SPAWNING_TIME = 3000;
 	
-	public static final int FIRERATE = 400;//300
+	public static final int FIRERATE = 250;//300
 	public static final double LASERSPEED = 10.0;//10.0
 	
 	//meteors properties

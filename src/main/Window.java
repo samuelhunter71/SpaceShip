@@ -1,6 +1,5 @@
 package main;
 import java.awt.Canvas;
-
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -19,7 +18,7 @@ import states.State;
 
 public class Window extends JFrame implements Runnable{
 	
-	private static final long serialVersionUID = 1L;
+	//private static final long serialVersionUID = 1L;
 	
 	private Canvas canvas;
 	private Thread thread;

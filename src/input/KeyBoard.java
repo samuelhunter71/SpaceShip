@@ -1,8 +1,6 @@
 package input;
 
 import java.awt.event.KeyEvent;
-
-
 import java.awt.event.KeyListener;
 
 public class KeyBoard implements KeyListener{

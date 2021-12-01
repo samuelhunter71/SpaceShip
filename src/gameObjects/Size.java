@@ -2,7 +2,6 @@ package gameObjects;
 
 import java.awt.image.BufferedImage;
 
-
 import graphics.Assets;
 
 public enum Size {

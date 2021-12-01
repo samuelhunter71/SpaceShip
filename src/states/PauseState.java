@@ -1,7 +1,6 @@
 package states;
 
 import java.awt.Color;
-
 import java.awt.Graphics;
 
 import graphics.Assets;

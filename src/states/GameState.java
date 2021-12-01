@@ -1,7 +1,6 @@
 package states;
 
 import java.awt.Color;
-
 import java.awt.GradientPaint;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -118,13 +117,6 @@ public class GameState extends State{
 			boss=true;
 			bossWave();
 		}else if(waves==17) {
-			try {
-				ArrayList<ScoreData> dataList=JSONParser.readFile();
-				dataList.add(new ScoreData(score, waves));
-	            JSONParser.writeFile(dataList);
-				} catch (IOException e) {
-				e.printStackTrace();
-			}
 			changeState(new WinState(score));
 		}else {
 			boss=false;

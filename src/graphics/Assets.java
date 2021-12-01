@@ -1,7 +1,6 @@
 package graphics;
 
 import java.awt.Font;
-
 import java.awt.image.BufferedImage;
 
 import javax.sound.sampled.Clip;

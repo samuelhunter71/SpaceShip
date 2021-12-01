@@ -1,7 +1,6 @@
 package graphics;
 
 import java.awt.Font;
-
 import java.awt.FontFormatException;
 import java.awt.image.BufferedImage;
 import java.io.IOException;

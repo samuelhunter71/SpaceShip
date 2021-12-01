@@ -1,7 +1,6 @@
 package graphics;
 
 import javax.sound.sampled.Clip;
-
 import javax.sound.sampled.FloatControl;
 
 public class Sound {

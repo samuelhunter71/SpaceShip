@@ -1,7 +1,6 @@
 package states;
 
 import java.awt.Color;
-
 import java.awt.Font;
 import java.awt.GradientPaint;
 import java.awt.Graphics;

@@ -2,7 +2,6 @@ package states;
 
 import java.awt.Graphics;
 
-
 import main.C;
 import graphics.Assets;
 import ui.Action;

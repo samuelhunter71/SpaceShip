@@ -2,7 +2,6 @@ package graphics;
 
 import java.awt.image.BufferedImage;
 
-
 import math.Vector2D;
 
 public class Animation {
