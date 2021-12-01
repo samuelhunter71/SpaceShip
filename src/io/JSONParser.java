@@ -16,7 +16,7 @@ import org.json.JSONTokener;
 import main.C;
 
 public class JSONParser {
-	
+	// readFile methodo
 	public static ArrayList<ScoreData> readFile() throws FileNotFoundException{
 		ArrayList<ScoreData> dataList=new ArrayList<ScoreData>();
 		
